@@ -57,13 +57,10 @@ Click The Buttons Below To Search
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├👨‍💻 Nᴇᴛᴡᴏʀᴋ : <a href=https://t.me/EquinoxNetwork>Eǫᴜɪɴᴏx Tᴇᴀᴍ</a>
-├👑Cʜᴀᴛ Gʀᴏᴜᴘ : <a href=https://t.me/Equinox_Chats>Eǫᴜɪɴᴏx~Cʜᴀᴛs</a> 
-├☃️ Sᴜᴘᴘᴏʀᴛ  : <a href=https://t.me/equinoxSupport>•Sᴜᴘᴘᴏʀᴛ•</a>
+├👑Cʜᴀᴛ Gʀᴏᴜᴘ : <a href=https://t.me/ll_THE_BAD_BOT_ll>𝐏ʙx~Cʜᴀᴛs</a> 
+├☃️ Sᴜᴘᴘᴏʀᴛ  : <a href=https://t.me/HEROKUBIN_01>•Sᴜᴘᴘᴏʀᴛ•</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
-├✏️ Oᴡɴᴇʀ : <a href=https://t.me/Harshu_xd1>•Oᴡɴᴇʀ•</a>
-├💾 Mʏ Dᴇᴠ: <a href=https://t.me/NomoreTymWaste>»PᴀPᴀ«</a>
-├🌀 Eǫᴜɪɴᴏx Bᴏᴛs : <a href=https://t.me/Equinoxbots>Bᴏᴛs Hᴜʙ </a>
+├✏️ Oᴡɴᴇʀ : <a href=https://t.me/ll_BAD_BBY_ll>•Oᴡɴᴇʀ•</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -72,8 +69,15 @@ Tʜɪs Bᴏᴛ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Fᴏʟʟᴏ�
 ⊚ YouTube
 ⊚ Mega
 ⊚ PornHub
+⊚ /song ᴀɴʏ ᴍᴘ3 ꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅ.
+⊚ /video ᴀɴʏ ᴠɪᴅᴇᴏ ꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅ.
+⊚ /ig ɪɢ ᴘᴏꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ.
+⊚ /reel ɪɢ ʀᴇᴇʟ ᴅᴏᴡɴʟᴏᴀᴅ.
+⊚ /porn Pʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴀ ᴛɪᴛʟᴇ ᴛᴏ sᴇᴀʀᴄʜ.
+⊚ /pornn Pʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴀ ᴛɪᴛʟᴇ ᴛᴏ sᴇᴀʀᴄʜ.
+⊚ /pornplay Pʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴀ ᴛɪᴛʟᴇ ᴛᴏ sᴇᴀʀᴄʜ.
 
-❗ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/EquinoxSupport>•𝐄𝐐𝐔𝐈𝐍𝐎𝐗</a>
+❗ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/ll_THE_BAD_BOT_ll>•ᴘʙx ᴜᴘᴅᴀᴛᴇ</a>
 """
 
 
@@ -84,4 +88,3 @@ Tʜɪs Bᴏᴛ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Fᴏʟʟᴏ�
 ┣⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
 ┣⪼ ⏰️ Eᴛᴀ: {4}
 ╰━━━━━━━━━━━━━━━➣ </b>"""
-
